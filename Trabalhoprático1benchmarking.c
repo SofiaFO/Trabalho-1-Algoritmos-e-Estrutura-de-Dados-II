@@ -2,7 +2,7 @@
 
 Integrantes do grupo:
 - Sofia Ferreira de Oliveira- 2024002336
-- Jorge
+- Jorge Alexandre Teixeira Henriques Luis - 2021010165 
 - Rodrigo de Oliveira - 2024001965
 - Diogo Conceição Nandes - 2017006513
 - Diogo Hyppolito de Andrade - 2022001741
