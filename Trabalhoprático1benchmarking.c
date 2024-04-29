@@ -1259,7 +1259,7 @@ void geraTabelaComp(conjDados *ordenacaoDados)
 {
     int i, j;
 
-    printf("Gerando tabela de tempo: (em milisegundos)\n\n");
+    printf("Gerando tabela de comparacao:\n\n");
     printf("A = Aleatorio\tOC = Ordem Crescente \t OD = Ordem Descrescente \t QO = Quase Ordenao\n\n");
     printf("\t\t A        OC      OD     QO\n");
 
@@ -1282,7 +1282,7 @@ void geraTabelaTrocas(conjDados *ordenacaoDados)
 {
     int i, j;
 
-    printf("Gerando tabela de tempo: (em milisegundos)\n\n");
+    printf("Gerando tabela de trocas:\n\n");
     printf("A = Aleatorio\tOC = Ordem Crescente \t OD = Ordem Descrescente \t QO = Quase Ordenao\n\n");
     printf("\t\t A        OC      OD     QO\n");
 
